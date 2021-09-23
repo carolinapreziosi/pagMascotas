@@ -1,0 +1,44 @@
+
+* {box-sizing:content-box; margin: 0; padding: 0;}
+
+nav {height:110px;margin:0%;}
+
+.container-fluid {display: flex ;background-color: #0058A4;color: white;height: 100%;}
+
+.titulo {width: 100%;}
+
+.imagenTitulo {display:inline-block;width:35%;height:50%; text-align:right;}
+
+h1 {text-align: center;color:#DF225F;display:inline-block;width:60%;height:50%;
+    text-shadow: 1px 1px #DF225F; font-family:'Poppins', sans-serif; font-size:200px;}
+
+#carouselMultiItemExample {background-color: #A1A3A8; padding: 6%;border-color;  box-shadow:20px 10px 10px #3F4043}
+
+.quieneSomos {margin-bottom:3%; }
+
+h2 { padding: 3%; color:#000000;}
+
+.videos{ display:flex; margin:auto; align-items: center;width: 98%;padding-bottom: 5% ;padding-top: 5%;}
+
+.iconFooter{margin-bottom:2%;}
+
+.menuDesplegable {background-color: #00B74A;}
+
+
+
+.tituloAdopta {font-size:40px; margin:3%; text-align: center; color:#DF225F; font-size:50px;} 
+
+.tituloAdopta1 {font-size:40px; margin:3%; text-align: center;}
+
+h3 { display:inline-block; text-align:center;}
+.formularioAdopcion {box-sizing: content-box; background-color:#A1A3A8; margin-right: 25%; margin-left: 25%;padding:5%;font-size:20px;text-align:justify; box-shadow:20px 10px 10px #6b6f72;}
+
+.form-control { width: 80%; margin:1%;display:block; box-shadow:5px 1px 1px #C3C4C6;border-radius: #C3C4C6;background-color: #E1E2E3;}
+
+.adoptarImagen { width:180px; height:180px; display:inline-flex;box-sizing: content-box; text-align: center;}
+
+.requisitosPrincipales{display: inline-block;height:auto;margin-right: 25%; margin-left: 25%; padding-bottom: 2%;color:#000000; font-size:20px;}
+
+
+
+
