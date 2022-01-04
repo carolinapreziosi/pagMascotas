@@ -2,6 +2,6 @@ Pagina mascotas
 
 Primer pagina de practica
 
-HTML
-Bootstrap
+HTML/
+Bootstrap/
 CSS
